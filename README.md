@@ -19,7 +19,6 @@ $ yarn
 #Start the app
 $ yarn start
 
-# The server wil run on port:3333 - Access <http://localhost:3333>
 ```
 
 ## Technologies
