@@ -1,17 +1,17 @@
-# Node Base Server
+# My Cli
 
 ## About
 
-Just a base server to you start your project
+Just a simple CLI
 
 ## Setup
 To start the project will be necessary run the following scripts:
 ```bash
 #Clone the repository
-$ git clone https://github.com/ravinmor/node-server
+$ git clone https://github.com/ravinmor/my-cli
 
 #Access the backend app folder
-$ cd node-server
+$ cd my-cli
 
 #Install packages
 $ yarn
@@ -25,7 +25,7 @@ $ yarn start
 ## Technologies
 <ul>
   <li>express: 4.18.1</li>
-  <li>nodemon: 2.0.16</li>
+  <li>vorpal: 1.12.0</li>
 </ul>
 
 ## Infos
